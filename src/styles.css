@@ -1,0 +1,45 @@
+body {
+  background-color: #f3f4f6;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.App #github-repo {
+  font-size: 3rem;
+  color: #231f20;
+  position: absolute;
+  right: 1.5rem;
+  top: 1rem;
+}
+
+.App h1 {
+  color: blue;
+  max-width: 80%;
+  margin: 1.3rem auto;
+}
+
+.App input {
+  padding: 1rem;
+  max-width: 80%;
+  width: 500px;
+}
+
+.App h2 {
+  margin: 2rem 0;
+}
+
+.App #emoji-list {
+  margin: auto auto 5rem;
+  max-width: 90%;
+  width: 700px;
+}
+
+.App span {
+  margin: 1rem;
+  font-size: 2.5rem;
+  line-height: 2em;
+  cursor: pointer;
+}
