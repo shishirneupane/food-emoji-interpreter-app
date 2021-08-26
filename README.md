@@ -1,7 +1,9 @@
 # food-emoji-interpreter-app
+
 A food emoji interpreter app built using ReactJS that can tell the meanings of emojis listed and can also take emojis as user input to show their meanings - (markEight)
 
 ## Technologies used:
+
 1. HTML
 1. CSS
 1. JavaScript

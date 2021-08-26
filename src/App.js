@@ -64,7 +64,7 @@ export default function App() {
         title="Source code for this app"
         href="https://github.com/shishirneupane/food-emoji-interpreter-app"
       >
-        <i class="fab fa-github"></i>
+        <i className="fab fa-github"></i>
       </a>
       <h1>Food Emoji Interpreter</h1>
       <input
