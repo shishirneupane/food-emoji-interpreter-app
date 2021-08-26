@@ -11,5 +11,5 @@ A food emoji interpreter app built using ReactJS that can tell the meanings of e
 
 ## Screenshots:
 
-![image](https://user-images.githubusercontent.com/58262449/130368310-aa93be57-cd93-4812-baa3-5bcb8f4405e1.png)
-![image](https://user-images.githubusercontent.com/58262449/130368320-d774e650-e929-457c-8eab-acfeb2830f44.png)
+![image](https://user-images.githubusercontent.com/58262449/131000157-b893097b-ffc0-4a8a-99d4-7d0ce09e81d9.png)
+![image](https://user-images.githubusercontent.com/58262449/131000329-221ba35b-75c6-4033-a6c7-c26322a44d07.png)
